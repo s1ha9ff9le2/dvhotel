@@ -441,6 +441,7 @@
 				847181421933C0B50019D902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		847181431933C0B50019D902 /* Build configuration list for PBXNativeTarget "dv hotelTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +450,7 @@
 				847181451933C0B50019D902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
