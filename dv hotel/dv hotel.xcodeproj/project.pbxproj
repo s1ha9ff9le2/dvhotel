@@ -20,6 +20,7 @@
 		8471813B1933C0B50019D902 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 847181391933C0B50019D902 /* InfoPlist.strings */; };
 		8471813D1933C0B50019D902 /* dv_hotelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8471813C1933C0B50019D902 /* dv_hotelTests.m */; };
 		847181471933C0D30019D902 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 847181461933C0D30019D902 /* Storyboard.storyboard */; };
+		847181571933CE270019D902 /* mainScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 847181561933CE270019D902 /* mainScreenViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,8 @@
 		8471813A1933C0B50019D902 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8471813C1933C0B50019D902 /* dv_hotelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dv_hotelTests.m; sourceTree = "<group>"; };
 		847181461933C0D30019D902 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		847181551933CE270019D902 /* mainScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainScreenViewController.h; sourceTree = "<group>"; };
+		847181561933CE270019D902 /* mainScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainScreenViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 				847181261933C0B40019D902 /* AppDelegate.h */,
 				847181271933C0B40019D902 /* AppDelegate.m */,
 				847181461933C0D30019D902 /* Storyboard.storyboard */,
+				847181551933CE270019D902 /* mainScreenViewController.h */,
+				847181561933CE270019D902 /* mainScreenViewController.m */,
 				847181291933C0B40019D902 /* Images.xcassets */,
 				8471811E1933C0B40019D902 /* Supporting Files */,
 			);
@@ -245,6 +250,7 @@
 			files = (
 				847181281933C0B40019D902 /* AppDelegate.m in Sources */,
 				847181241933C0B40019D902 /* main.m in Sources */,
+				847181571933CE270019D902 /* mainScreenViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
