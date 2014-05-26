@@ -12,6 +12,24 @@
             </objects>
             <point key="canvasLocation" x="111" y="23"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="5SM-lJ-F4R">
+            <objects>
+                <viewController id="jsK-DX-ae6" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="NmO-dM-jCJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="Jfi-kT-2Fo"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="hCD-gZ-rzO">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jfa-cE-YLL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="379" y="77"/>
+        </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
